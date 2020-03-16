@@ -1,0 +1,80 @@
+
+.todo{
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgba(69, 150, 229, 1);
+  border-radius: 8px;
+  width: 45%;
+  height: 16vw;
+  margin-left: 25%;  
+}
+form{
+  flex-direction: column;
+  height: 70%;
+}
+label{
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin-left: 70%;
+}
+h1{
+  color: rgba(49, 47, 47, 0.849);
+  font-size: 30px;
+  width: 40%;
+  margin-left: 2%;  
+}
+.newtask{
+  height: 20%;
+  border: solid 1px grey ;
+  padding: 1vw;
+  border-radius: 10px;
+  margin-left: 1%;
+  width: 90%;
+  margin-top:1%;
+  margin-bottom: 1%;
+}
+.add{
+  height: 20;
+  border: solid 1px grey ;
+  padding: 1vw;
+  margin-left: 80%;
+  width: 15%;
+  border-radius: 8px;  
+}
+
+.element {
+  margin-top: 1%;
+  margin-left: 25%;
+  height: 30%;
+  width: 45%;
+  bottom: 20%;
+
+  display: flex;
+  
+}
+.Btn{
+  margin-left: 28%;
+  width: 30%;
+  
+}
+
+  
+.button-1{
+margin-top: 8%;
+ width: 35%;
+ height: 3vw;
+border-radius: 8px;
+  
+}
+.button-2{
+  margin-left: 14%;
+  width: 35%;
+  height: 3vw;
+  border-radius: 8px;
+
+}
+.complete{
+  text-decoration: line-through;
+}
+  
